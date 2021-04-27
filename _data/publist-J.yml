@@ -1,0 +1,224 @@
+## Yamazaki Lab work
+- ID: JY8)
+  title: "気温上昇量と極端降雨強度の関係性 -気象観測値とd4PDFを用いた日本域の解析-"
+  e-title: "Relatinoship between extreme rainfall intensity and temperature rise derived from observations and d4PDF over Japan"
+  authors: "渡辺恵, 吉川沙耶花, 山崎大, 鼎信次郎"
+  description: 
+  link:
+    display:  "土木学会論文集B1(水工学), vol.75(2), I_1129-I_1134, 2019"
+  dlab: 1
+
+- ID: JY7)
+  title: "サブグリッド飽和側方流を考慮した全球陸域モデルの構築"
+  e-title: "Development of global terrestrial model considering saturated lateral flow"
+  authors: "兎澤知浩, 山崎大, 沖大幹"
+  description: 
+  link:
+    display:  "土木学会論文集B1(水工学) vol.75(2), I_1265-I_1270, 2019"
+  dlab: 1
+
+- ID: JY6)
+  title: " 全球河川モデルに適用可能な物理的洪水防護パラメータの広域自動抽出"
+  e-title: "The automatic extraction of physical flood protection parameters for global river models"
+  authors: "田中良明, 山崎大"
+  description: 
+  link:
+    display:  "土木学会論文集B1(水工学) vol.75(2), I_1099-I_1104, 2019"
+  dlab: 1
+
+- ID: JY5)
+  title: "衛星観測水面標高データを用いた河川氾濫モデルの河道深パラメータの推定"
+  e-title: "Estimation Of The River Bankfull Depth By The Integration Of A Satellite Observation And A River Routing Model"
+  authors: "塩澤拓斗, 山崎大"
+  link:
+    display:  "土木学会論文集 (B1) Vol.75(2), I_259-I_264, 2019"
+  dlab: 1
+
+
+- ID: JY4)
+  title: "日本全域高解像度の表面流向データ整備"
+  e-title: "High-resolution flow direction map of Japan"
+  authors: "山崎大, 冨樫冴佳, 竹島彰, 佐山敬洋"
+  link:
+    display:  "土木学会論文集B1(水工学), Vol.74(5), I_163-I_168, 2018"
+  dlab: 1
+
+- ID: JY3)
+  title: "[研究ノート局所慣性方程式の導入による洪水氾濫計算の安定化と高速化"
+  e-title: "Rapid and stable flood inundation modelling using the local inertial equation"
+  authors: "山崎大，田中智大，Paul D. Bates"
+  link:
+    display:  "水文・水資源学会論文集, vol.28 (3), pp.124-130, 2015"
+  dlab: 1
+
+- ID: JY2)
+  title: "全球超高解像度水文地形データを利用した河川氾濫原シミュレーション"
+  e-title: "Simulation of river and floodplain dynamics based on global super-high-resolution topographical datasets"
+  authors: "山崎大，鼎信次郎，沖大幹"
+  link:
+    display:  "水工学論文集, vol.54, pp.463-468, 2010"
+  dlab: 1
+
+- ID: JY1)
+  title: "グローバルな河川モデルのための河道網の自動構築"
+  e-title: "The automatic construction of a river network map for global scale river models"
+  authors: "山崎大，沖大幹，鼎信次郎"
+  link:
+    display:  "水工学論文集,vol.53, pp.445-450, 2009"
+  dlab: 1
+
+## Collaboration work
+- ID: JC19)
+  title: "小型SAR 衛星コンステレーションによる河川氾濫域の高頻度観測の可能性"
+  e-title: "Possibility of high-frequency observation of inundation area by small sar satellites constellation"
+  authors: "北島夏実, 瀬戸里枝, 山崎大, Xudong ZHOU, Wenchao MA, 鼎信次郎"
+  link:
+    display:  "土木学会論文集B1(水工学), vol.76, no.2, I_535-I_540, 2020"
+  dlab: 0
+
+- ID: JC18)
+  title: "Investigating Flood Detectability Using Satellite-derived Daily Global Surface Water Change And A High Resolution Floodplain Mask"
+  e-title: ""
+  authors: "Haireti ALIFU, Dai YAMAZAKI, Ji LUYAN, and Yukiko HIRABAYASHI"
+  link:
+    display:  "土木学会論文集 (B1) vol.75(2), I_163-I_168, 2019"
+  dlab: 0
+
+- ID: JC17)
+  title: "管渠水位の事前計算データバンクを用いたデータ同化による浸水解析の精度向上とポンプ操作の感度分析"
+  e-title: "Application Of Databank-based Data Assimilation To Urban Inundation Model For Improved Accuracy And Sensitivity Analysis Of Pumping Operation"
+  authors: "渋尾欣弘, 呉連慧, 田島芳満, 山崎大, 佐貫宏, 古米弘明"
+  link:
+    display:  "土木学会論文集 (B1) vol.75(2), I_199-I_204, 2019"
+  dlab: 0
+
+- ID: JC16)
+  title: "洪水調節を組み込んだ確率洪水予報システムの構築及び2015年鬼怒川洪水への適用"
+  e-title: "Implementing Reservoir Operation In A Probabilistic Flood Forecast System And Its Application To 2015 Kinu River Flood"
+  authors: "花崎梨紗, 石塚悠太, 山崎大, 芳村圭"
+  link:
+    display:  "土木学会論文集 (B1) vol.75(2), I_151-I_156, 2019"
+  dlab: 0
+
+- ID: JC15)
+  title: "[総説] 最前線の水文・水資源学 〜WACCA 世代の挑戦〜"
+  e-title: "Frontiers in Hydrology and Water Resources Research : WACCA Generation's Challenges"
+  authors: "田中智大, 渡部哲史, 小槻峻司, 林義晃, 丸谷靖幸, 峠嘉哉, 山崎大, 木村匡臣, 田上雅浩, 江草智弘, 橋本雅和, 仲吉信人"
+  link:
+    display:  "水文・水資源学会誌, vol.31(6), 365-396, 2018"
+  dlab: 0
+
+- ID: JC14)
+  title: "Model Based Observation Localization Weighting Function for Amazon Mainstream"
+  e-title: ""
+  authors: "M. REVEL, D. YAMAZAKI, and Shinjiro KANAE"
+  link:
+    display:  "土木学会論文集 (B1) Vol.74(4), I_307-I_312, 2018"
+  dlab: 0
+
+- ID: JC13)
+  title: "Estimating Global River Bathymetry By Assimilating Synthetic Swot Measurements"
+  e-title: ""
+  authors: "M. REVEL, D. YAMAZAKI, and Shinjiro KANAE"
+  link:
+    display:  "土木学会論文集 (B1) Vol.74(4), I_307-I_312, 2018"
+  dlab: 0
+
+- ID: JC12)
+  title: "サブグリッド斜面流動過程を組み込んだグローバルな陸域モデルの開発"
+  e-title: "DEVELOPMENT OF GLOBAL TERRESTRIAL MODEL INCLUDING SUB-GRID HILLSLOPE PROCESSES"
+  authors: "兎澤知浩, 山崎大, 佐山敬洋, 沖大幹"
+  link:
+    display:  "土木学会論文集 (B1) Vol.74(4), I_991-I_996, 2018"
+  dlab: 0
+
+- ID: JC11)
+  title: "低緯度河川における水温の決定要因"
+  e-title: "DETERMINANTS OF WATER TEMPERATURE IN THE RIVERS OVER LOW-LATITUDE REGIONS"
+  authors: "徳田大輔，金炯俊，山崎大，沖大幹"
+  link:
+    display:  "土木学会論文集 (B1) Vol.74(4), I_583-I_588, 2018"
+  dlab: 0
+
+- ID: JC10)
+  title: "[総説] 地表水流れの数値解析技術に関する分野横断的視点から見た特徴と最前線"
+  e-title: "Interdisciplinary Perspective of Surface Water Flow Numerical Analysis"
+  authors: "木村匡臣, 田中智大, 安瀬地一作, 中谷加奈, 山崎大, 吉岡秀和"
+  link:
+    display:  "水文・水資源学会誌, vol.30, no.5, pp. 307-334, 2017"
+  dlab: 0
+
+- ID: JC9)
+  title: "全球河川モデルへのデータ同化手法の適用　―アマゾン川流域を対象にした仮想実験―"
+  e-title: "Application of data assimilation for a global river model: a virtual experiment at the amazon basin"
+  authors: "池嶋大樹, 山崎大，鼎信次郎"
+  link:
+    display:  "土木学会論文集 (B1) vol.73(4), pp.175-180, 2017"
+  dlab: 0
+
+- ID: JC8)
+  title: "1次元局所慣性方程式に対する摩擦項を考慮した数値安定性解析"
+  e-title: "Numerical stability analysis of local inertial equations considering the friction term"
+  authors: "田中智大, 吉岡秀和, 木村匡臣, 山崎大"
+  link:
+    display:  "土木学会論文集 (B1) vol.73(4), pp.577-582, 2017"
+  dlab: 0
+
+
+- ID: JC7)
+  title: "河川水温モデルを用いた河川水温形成に氾濫原が果たす役割の解明"
+  e-title: "Study of the role of inundation on river water temperature with a numerical model"
+  authors: "徳田大輔, 山崎大, 沖大幹"
+  link:
+    display:  "土木学会論文集 (B1) vol.73(4), pp.1213-1218, 2017"
+  dlab: 0
+
+
+- ID: JC6)
+  title: "高解像度河川氾濫過程の導入が大気大循環モデルの推計値に及ぼす影響"
+  e-title: "Impact assessment of high resolution river inundation precesses in a climate model"
+  authors: "鳩野美佐子, 芳村圭, 荒川隆, 山崎大, 沖大幹"
+  link:
+    display:  "土木学会論文集 (B1) vol.72(4), pp.115-120, 2016"
+  dlab: 0
+
+
+- ID: JC5)
+  title: "多時期Landsatデータ解析を用いた全球水面マスクの高解像度化"
+  e-title: "The spatial resolution improvement of global water body map using multi-temporal Landsat data"
+  authors: "池嶋大樹, 山崎大，吉川沙耶花，鼎信次郎"
+  link:
+    display:  "土木学会論文集 (B1) vol.72(4), pp.421-426, 2016"
+  dlab: 0
+
+- ID: JC4)
+  title: "Modeling the impact of sea level rise to potential flood damage in the Mekong"
+  e-title: ""
+  authors: "Tomoko Sato, Dai Yamazaki, Wee Ho Lim, Sujan Koirala, & Shinjiro Kanae"
+  link:
+    display:  "土木学会論文集 (B1) vol.70, pp.103-108, 2014"
+  dlab: 0
+
+- ID: JC3)
+  title: "陸面・河川氾濫モデルによる洪水影響人口の全球実時間算定システムの構築"
+  e-title: "Development of a global flood affected population real-time calculation system with a land surface-flood inundation model"
+  authors: "鳩野美佐子，芳村圭，山崎大，沖大幹"
+  link:
+    display:  "土木学会論文集 (B1), vol.70, pp.1519-1524, 2014"
+  dlab: 0
+
+- ID: JC2)
+  title: "Inequalities in water resources distributions and water related conflicts"
+  e-title: ""
+  authors: "Nilupul K, Gunasekara, So Kazama, Dai Yamazaki, & Taikan Oki"
+  link:
+    display:  "水工学論文集, vol.54, pp.115-120, 2010"
+  dlab: 0
+
+- ID: JC1)
+  title: "The potentially available global water resources distribution under climate change"
+  e-title: ""
+  authors: "Nilupul K, Gunasekara, So Kazama, Dai Yamazaki, & Taikan Oki"
+  link:
+    display:  "水工学論文集, vol.53, pp.13-18, 2009"
+  dlab: 0

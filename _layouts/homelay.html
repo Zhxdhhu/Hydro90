@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="row">
+  <div id="homeid" class="col-sm-8">
+    {{ content }}
+  </div>
+
+  <div id="newsid" class="col-sm-4" >
+    <h3>Products  (code & data)</h3>
+    {% include products.html %}
+
+    <h3>Lab News (Twitter)</h3>
+     <a class="twitter-timeline" data-tweet-limit="8" data-link-color="#007bff" href="https://twitter.com/G_Hydrodynamics?ref_src=twsrc%5Etfw" data-chrome=”noheader” data-chrome="nodate">
+      Tweets by Yamazaki Lab
+     </a>
+     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</div>
