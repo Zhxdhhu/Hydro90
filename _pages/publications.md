@@ -1,7 +1,7 @@
 ---
-title: "Yamazaki Lab - Publications"
+title: "Hydro90 - Publications"
 layout: pagelay
-excerpt: "Yamazaki Lab -- Publications."
+excerpt: "Hydro90 -- Publications."
 sitemap: false
 permalink: /publications/
 ---

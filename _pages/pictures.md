@@ -1,7 +1,7 @@
 ---
-title: "Yamazaki Lab - Pictures"
+title: "Hydro90 - Pictures"
 layout: pagelay
-excerpt: "Yamazaki Lab -- Pictures"
+excerpt: "YHydro90 -- Pictures"
 permalink: /pictures/
 ---
 

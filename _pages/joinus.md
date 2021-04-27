@@ -8,56 +8,19 @@ permalink: /joinus
 
 # 如何加入我们?
 
-We are always looking for new group members with passion, talent and grit. If you love nature and the Earth and want to understand it with data and model, please consider to join us!
+#### 1.关注微信公众号平台 @hydro90er
 
-You will have the chance to work on frontier sciece challenges on global hydrodynamics, conbining the model, remote sensing and data integration approach. We are happy to work with you to understand, describe and predict the dynamics of land waters accross various spacial and temporal scales.
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/wx.png" width="50%" >
 
-If you are interested in, please contact us by email ( yamadai [at] iis.u-tokyo.ac.jp ). We are happy to chat about potential research projects and research life in our group.
+#### 2.加入微信群（添加管理员微信@hydro90，备注“姓名-学校-研究方向”）
 
-## Current open positions
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/xzhou.png" width="20%" >
 
-**Note: We currently don't have funding for additional Postdoc and PhD positions. However, we can welcome Postdoc if you have a fellowship. Stuents must have a scholarship or be self-funded. We are happy to support you after you apply to our group.**
+#### 3.关注Twitter @hydro90er
 
-### Application to Postdoc position
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/twitter.png" width="20%" >
 
-If you want to join us as a posdoc, please email us first (we sometimes have potential post positions not announced yet). Also, we can chat about the possibility of applying to a fellowship:
-
-**For international postdoc: You can apply to the [JSPS International  Fellowship](https://www.jsps.go.jp/english/e-inv_researchers/index.html).** Please contact to us at least two months before the JSPS deadline of JSPS, because U-Tokyo internal deadline is 1 month earlier than that.
-
-**For Japanese postdoc: Please consider applying to [JSPS Postdoctoral Fellowship](https://www.jsps.go.jp/j-pd/).** Please contact to us in advance if you are applying for the fellowship.
-
-### Application to PhD and Master cources
-If you are interested in working with us as a PhD or master student, please apply to the [Department of Civil Engineering, Graduate School of Engineering, The University of Tokyo](http://www.civil.t.u-tokyo.ac.jp/en/).
-
-#### International Student Program
-
-If you are non-Japanese and living outside in Japan, please apply to the international scholarship progra of Department of Civil Engineering through [FSO (Foreign Student Office)](http://www.civil.t.u-tokyo.ac.jp/en/admission/). The information on applicable scholarships and application timings are shown in the FSO webpage. Typical examples of applicable scholarships are:
-
-- MEXT scholarship (University Reccomedation): Apply through FSO
-- MEXT scholarship (Embassy Reccomedation): Apply throuth Japanese Embathy in your country.
-- CSC scholarship (Chinese only): Apply through FSO, and approval by CSC.
-- Other external scholarships: Please contuct as if you want to join us with an external schlarship.
-
-#### Entrance exam to Grad School
-
-If you are Japanese (or Foreigner living in Japan), please take [entrance exam](http://www.civil.t.u-tokyo.ac.jp/graduate_school/) of Graduate School of Engineering, The University of Tokyo. The entrance exam is held in late August every year. For detailed information, please check the UT-Civil entrance exam page.
-
-### Visitor for collaborative reseach
-
-We also welcome visitors for research collaboration (sabatical, visiting scholar/student, internship, etc.) Please contact us if you have a plan, and we can discuss about the plan and possibility.
-
-### Info in Japanese
-
-山崎研究室に修士/博士学生として加わりたい場合は、東京大学工学系研究科 社会基盤学専攻の [大学院入試](http://www.civil.t.u-tokyo.ac.jp/graduate_school/) を受験してください。研究室見学は随時受け付けています。
-
-学部生として卒論研究を行いたい場合は、社会基盤学科の水圏環境グループから研究室に加わることができます。
-
-山崎研究室で取り組むことのできる研究例として、以下のリストを参考にしてください。
-- [研究テーマと手法](../research/)
-- [研究成果(学術論文など)](../publications/)
-- [学生の学位論文リスト](../student_thesis/)
-
-JSPS特別研究員のホストは常時受け付けています。ポスドク研究員のポジションがある場合もあるので、興味がある場合は連絡お願いします。
+#### 4.加入编委：每三个月将刊出新一期编委招募通知，届时请根据通知联系相关人员
 
 
 

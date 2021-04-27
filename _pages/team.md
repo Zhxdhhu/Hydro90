@@ -1,7 +1,7 @@
 ---
 title: "Hydro90 - Team"
 layout: pagelay
-excerpt: "Yamazaki Lab: Team members"
+excerpt: "Hydro90 Team members"
 sitemap: false
 permalink: /team/
 ---

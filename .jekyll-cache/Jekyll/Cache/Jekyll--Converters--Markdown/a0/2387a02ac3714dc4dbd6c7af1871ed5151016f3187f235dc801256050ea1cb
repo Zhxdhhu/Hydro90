@@ -1,0 +1,283 @@
+I"\=<h1 id="publications">Publications</h1>
+
+<p>For a full publication list, see <a href="#full-list">below</a> or go to <a href="https://scholar.google.com/citations?hl=en&amp;user=2c_Vf3cAAAAJ&amp;view_op=list_works">Google Scholar</a>.</p>
+
+<p>The list of student thesis (PhD/MA/BA) is available <a href="../student_thesis/">here</a>.</p>
+
+<h2 id="highlights">Highlights</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>A Physically Based Empirical Localization Method for Assimilating Synthetic SWOT Observations of a Continental‐Scale River: A Case Study in the Congo Basin</pubtit>
+      <p><img src="/images/pubpic/2019Menaka_LocalPatch.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p></p>
+      <p><em>Menaka Revel, Daiki Ikeshima, Dai Yamazaki, Shinjiro Kanae</em></p>
+      <p><strong><a href="https://www.mdpi.com/2073-4441/11/4/829">Water, vol.11, page.829, 2019, DOI 10.3390/w11040829</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>MERIT Hydro: A high-resolution global hydrography map based on latest topography datasets</pubtit>
+      <p><img src="/images/pubpic/2019Yamazaki_MERIT.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We develpped a global high-accuracy river topography map which are used as a baseline data for various Earth science studies.</p>
+      <p><em>Yamazaki, D., D. Ikeshima, J. Sosa, P.D. Bates, G.H. Allen, T.M. Pavelsky</em></p>
+      <p><strong><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019WR024873">Water Resources Research, vol.55, pp.5053-5073, 2019, DOI 10.1029/2019WR024873</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+<p><!-- /row, when even_odd  --></p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>A high-accuracy map of global terrain elevations</pubtit>
+      <p><img src="/images/pubpic/2017Yamazaki_MERITDEM.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>MERIT DEM. A Very precise global topography map by multiple error removal from spaceborne DEMs.</p>
+      <p><em>Yamazaki D., D. Ikeshima, R. Tawatari, T. Yamaguchi, F. O’Loughlin, J.C. Neal, C.C. Sampson, S. Kanae, P.D. Bates</em></p>
+      <p><strong><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL072874">Geophysical Research Letters, vol.44, pp.5844-5853, 2017, DOI 10.1029/2019WR024873</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Compound simulation of fluvial floods and storm surges in a global coupled river‐coast flood model: Model development and its application to 2007 Cyclone Sidr in Bangladesh</pubtit>
+      <p><img src="/images/pubpic/2017Ikeuchi_Surge.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Coupound risk moelling of river flood and storm surge</p>
+      <p><em>Hiroaki Ikeuchi, Yukiko Hirabayashi, Dai Yamazaki, Sanne Muis, Philip J. Ward, Hessel C. Winsemius, Martin Verlaan, and Shinjiro Kanae</em></p>
+      <p><strong><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017MS000943">Journal of Advances in Modeling Earth Systems, vol.9, pp.1847-1862, 2017, DOI 10.1002/2017MS000943</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+<p><!-- /row, when even_odd  --></p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Regional flood dynamics in a bifurcating mega delta simulated in a global river model</pubtit>
+      <p><img src="/images/pubpic/2014Yamazaki_Bifu.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>First representation of channel bifurcation in global river model</p>
+      <p><em>Yamazaki D., S. Sato, S. Kanae, Y. Hirabayashi, P.D. Bates</em></p>
+      <p><strong><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL059744">Geophysical Research Letters, vol.41, pp.3127-3135, 2014, DOI 10.1002/2014GL059774</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>A physically-based description of floodplain inundation dynamics in a global river routing model</pubtit>
+      <p><img src="/images/pubpic/2011Yamazaki_CaMa.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Primaly description paper of the CaMa-Flood global river hydrodynamics model.</p>
+      <p><em>Yamazaki D., S. Kanae, H. Kim, T. Oki,</em></p>
+      <p><strong><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2010WR009726">Water Resources Research, vol.54, W04501, 2011, DOI 10.1029/2010WR009726</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+<p><!-- /row, when even_odd  --></p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>High Resolution Modeling of River‐Floodplain‐Reservoir Inundation Dynamics in the Mekong River Basin</pubtit>
+      <p><img src="/images/pubpic/2020Shin_Reservoir.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Implementing reservoirs in CaMa-Flood model</p>
+      <p><em>Shin, S., Y. Pokhrel, D. Yamazaki, X. Huang, N. Torbick, N., J. Qi, S. Pattanakiat, T. Ngo-Doc, T.D. Nguyen</em></p>
+      <p><strong><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019WR026449">Water Resources Research, vol.56(5), e2019WR026449, 2020, DOI 10.1029/2019WR026449</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Potential Disruption of Flood Dynamics in the Lower Mekong River Basin Due to Upstream Flow Regulation</pubtit>
+      <p><img src="/images/pubpic/2018Pokhrel_Mekong.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Assessment of flow regulation on Mekong Delta Hydrodynamics</p>
+      <p><em>Y. Pokhrel, S. Shin, Z. Lin, D. Yamazaki, J. Qi</em></p>
+      <p><strong><a href="https://www.nature.com/articles/s41598-018-35823-4">Scientific Report, vol.8, 17767, 2018, DOI 10.1038/s41598-018-35823-4</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+<p><!-- /row, when even_odd  --></p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>The credibility challenge for global fluvial flood risk analysis</pubtit>
+      <p><img src="/images/pubpic/2016Trigg_FloodMIP.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>First comparison of large-scale flood risk models</p>
+      <p><em>M.A. Trigg, C.E. Birch, J.C. Neal, P.D. Bates, A. Smith, C.C. Sampson, D. Yamazaki, Y. Hirabayashi, F. Pappenberger, E. Dutra, P.J. Ward, H.C. Winsemius, P. Salamon, F. Dottori, R. Rudari, M.S. Kappes, A.L. Simpson, G. Hadzilacos and T.J. Fewtrell</em></p>
+      <p><strong><a href="https://iopscience.iop.org/article/10.1088/1748-9326/11/9/094014/meta">Environmental Research Letters, 11(9), 094014, 2016, DOI 10.1088/1748-9326/11/9/094014.</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Global flood risk under climate change</pubtit>
+      <p><img src="/images/pubpic/2013Hirabayashi_NCC.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Global flood risk assessment using multiple CMIP5 climate model output.</p>
+      <p><em>Yukiko Hirabayashi, Roobavannan Mahendran, Sujan Koirala, Lisako Konoshima, Dai Yamazaki, Satoshi Watanabe, Hyungjun Kim, &amp; Shinjiro Kanae</em></p>
+      <p><strong><a href="https://www.nature.com/articles/nclimate1911">Nature Climate Change, vol.3, pp816-821, 2013, DOI 10.1038/nclimate1911</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+<p><!-- /row, when even_odd  --></p>
+
+<!-- if list number is odd, "/div" should be added -->
+
+<p>   </p>
+
+<h2 id="full-list">Full List</h2>
+<h3 id="-original-papers-yamazaki-lab-reviewed-">== Original Papers (Yamazaki lab, reviewed) ==</h3>
+
+<p><b> Y16) Global high-resolution estimation of cropland suitability and its comparative analysis to actual cropland distribution </b><br />
+<em> Yuki Ishikawa and Dai Yamazaki </em><br /> <a href="http://www.hrljournal.org/archives/3006">Hydrological Research Letters, vol.15(2), p9-15, 2021, DOI 10.3178/hrl.15.9</a></p>
+
+<p><b> Y15) The uncertainty of flood frequency analyses in hydrodynamic model simulations </b><br />
+<em> Xudong Zhou, Wenchao Ma, Wataru Echizenya, and Dai Yamazaki </em><br /> <a href="https://nhess.copernicus.org/articles/21/1071/2021/">Natural Hazards and Earth System Science, vol.21, p1071–1085, 2021, DOI 10.5194/nhess-21-1071-2021</a></p>
+
+<p><b> Y14) A Framework for Estimating Global-Scale River Discharge by Assimilating Satellite Altimetry </b><br />
+<em> Menaka Revel, Daiki Ikeshima, Dai Yamazaki, Shinjiro Kanae </em><br /> <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR027876">Water Resources Research, vol.57(1), e2020WR027876, 2021, DOI 10.1029/2020WR027876</a></p>
+
+<p><b> Y13) A Physically Based Empirical Localization Method for Assimilating Synthetic SWOT Observations of a Continental‐Scale River: A Case Study in the Congo Basin </b><br />
+<em> Menaka Revel, Daiki Ikeshima, Dai Yamazaki, Shinjiro Kanae </em><br /> <a href="https://www.mdpi.com/2073-4441/11/4/829">Water, vol.11, page.829, 2019, DOI 10.3390/w11040829</a></p>
+
+<p><b> Y12) MERIT Hydro: A high-resolution global hydrography map based on latest topography datasets </b><br />
+<em> Yamazaki, D., D. Ikeshima, J. Sosa, P.D. Bates, G.H. Allen, T.M. Pavelsky </em><br /> <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019WR024873">Water Resources Research, vol.55, pp.5053-5073, 2019, DOI 10.1029/2019WR024873</a></p>
+
+<p><b> Y11) A high-accuracy map of global terrain elevations </b><br />
+<em> Yamazaki D., D. Ikeshima, R. Tawatari, T. Yamaguchi, F. O’Loughlin, J.C. Neal, C.C. Sampson, S. Kanae, P.D. Bates </em><br /> <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL072874">Geophysical Research Letters, vol.44, pp.5844-5853, 2017, DOI 10.1029/2019WR024873</a></p>
+
+<p><b> Y10) Compound simulation of fluvial floods and storm surges in a global coupled river‐coast flood model: Model development and its application to 2007 Cyclone Sidr in Bangladesh </b><br />
+<em> Hiroaki Ikeuchi, Yukiko Hirabayashi, Dai Yamazaki, Sanne Muis, Philip J. Ward, Hessel C. Winsemius, Martin Verlaan, and Shinjiro Kanae </em><br /> <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017MS000943">Journal of Advances in Modeling Earth Systems, vol.9, pp.1847-1862, 2017, DOI 10.1002/2017MS000943</a></p>
+
+<p><b> Y9) Modeling complex flow dynamics of fluvial floods exacerbated by sea level rise in the Ganges-Brahmaputra-Meghna delta </b><br />
+<em> Hiroaki Ikeuchi, Yukiko Hirabayashi, Dai Yamazaki, Masashi Kiguchi, Sujan Koirala, Takanori Nagano, Akihiko Kotera, and Shinjiro Kanae </em><br /> <a href="https://iopscience.iop.org/article/10.1088/1748-9326/10/12/124011">Environmental Research Letters, 2015, vol.10, p.124011, DOI 10.1088/1748-9326/10/12/124011</a></p>
+
+<p><b> Y8) Development of a global ~90 m water body map using multi-temporal Landsat images </b><br />
+<em> Yamazaki, D., M.A. Trigg, D. Ikeshima </em><br /> <a href="http://dx.doi.org/10.1016/j.rse.2015.10.014">Remote Sensing of Environment, vol.171, pp.337-351, 2015, DOI 10.1016/j.rse.2015.10.014</a></p>
+
+<p><b> Y7) Regional flood dynamics in a bifurcating mega delta simulated in a global river model </b><br />
+<em> Yamazaki D., S. Sato, S. Kanae, Y. Hirabayashi, P.D. Bates </em><br /> <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL059744">Geophysical Research Letters, vol.41, pp.3127-3135, 2014, DOI 10.1002/2014GL059774</a></p>
+
+<p><b> Y6) Development of the Global Width Database for Large Rivers </b><br />
+<em> Yamazaki D., F. O’Loughlin, M.A. Trigg, Z.F. Miller, T.M. Pavelsky, &amp; P.D. Bates </em><br /> <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013WR014664">Water Resources Research, vol.50, pp.3467-3480, 2014, DOI 10.1002/2013WR014664</a></p>
+
+<p><b> Y5) Improving computational efficiency in global river models by implementing the local inertial flow equation and a vector-based river network map </b><br />
+<em> Yamazaki D., G.A.M. de Almeida, P.D. Bates </em><br /> <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/wrcr.20552">Water Resources Research, vol.49(11), pp.7221-7235, 2013, DOI 10.1002/wrcr.20552</a></p>
+
+<p><b> Y4) Analysis of the water level dynamics simulated by a global river model: A case study in the Amazon River </b><br />
+<em> Yamazaki D., H. Lee, D.E. Alsdorf, E. Dutra, H. Kim, S. Kanae, T. Oki </em><br /> <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012WR011869">Water Resources Research, vol.48, W09508, 2012, DOI 10.1029/2012WR011869</a></p>
+
+<p><b> Y3) Adjustment of a spaceborne DEM for use in floodplain hydrodynamic modelling </b><br />
+<em> Yamazaki D., C.A. Baugh, P.D. Bates, S. Kanae, D.E. Alsdorf, T. Oki </em><br /> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022169412001709">Journal of Hydrology, vol.436-437, pp.81-91, 2012, DOI 10.1016/j.jhydrol.2012.02.045</a></p>
+
+<p><b> Y2) A physically-based description of floodplain inundation dynamics in a global river routing model </b><br />
+<em> Yamazaki D., S. Kanae, H. Kim, T. Oki, </em><br /> <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2010WR009726">Water Resources Research, vol.54, W04501, 2011, DOI 10.1029/2010WR009726</a></p>
+
+<p><b> Y1) Deriving a global river network map and its sub-grid topographic characteristics from a fine-resolution flow direction map </b><br />
+<em> Yamazaki D., T. Oki, S. Kanae </em><br /> <a href="https://hess.copernicus.org/articles/13/2241/2009/">Hydrology and Earth System Science, vol.13, pp.2241-2251, 2009, DOI 10.5194/hess-13-2241-2009</a></p>
+
+<p>   </p>
+
+<h2 id="顾问">顾问</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <h4>舒乐乐 : </h4>
+    <p><i> 中国科学院西北生态环境资源研究院，副研究员</i></p>
+    <ul style="overflow: hidden">
+
+  
+  <li> 数值方法水文模型、深度学习、模型智能化以及“大气-陆面-水文”模型耦合 </li>
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <h4>吴光东 : </h4>
+    <p><i> 长江水利委员会长江科学院，高级工程师</i></p>
+    <ul style="overflow: hidden">
+
+  
+  <li> 地表水与地下水交换机理 </li>
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <h4>徐世琴 : </h4>
+    <p><i> 西北师范大学，副教授</i></p>
+    <ul style="overflow: hidden">
+
+  
+  <li> 蒸散发物理过程、气候变化、流域生态水文效应 </li>
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <h4>刘臻晨 : </h4>
+    <p><i> 香港城市大学，博士后研究员</i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+:ET

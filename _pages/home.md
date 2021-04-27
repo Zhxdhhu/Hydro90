@@ -6,17 +6,23 @@ sitemap: false
 permalink: /
 ---
 # Welcome!
+
+[publications](./publications/)
+[publications](./general_article/)
+
 **NOTE: 本网页仍在持续建设中，敬请期待 (Apr2021)**
 
-Hydro90 (PI: [Dai Yamazaki](http://hydro.iis.u-tokyo.ac.jp/~yamadai/)) is a part of U-Tokyo [Global Hydrology Group](http://hydro.iis.u-tokyo.ac.jp/) in [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/). 
+Hydro90是一个以促进水文青年学者之间相互交流为目的，以推广水文年轻一代科学研究最新成果、分享水文相关领域最新资讯（会议、招聘、新技术等）为主要内容的平台。
+
+Hydro90围绕水文，目前已经形成了微信公众号平台、微信群、网页、Twitter多渠道一体的服务平台，
 
 Yamazaki lab is in U-Tokyo Komaba-2 Research Campus (<a href="https://goo.gl/maps/SNCw9DrqL6Rzs4XM9">Map</a>, <a href="https://www.iis.u-tokyo.ac.jp/en/access/">Directions</a>) in central Tokyo.
 
-Our studies mainly focus on the dynamics of land waters on the global scale, using modelling, remote sensing, and data integration approach.
+Our studies mainly focus on the dynamics of land waters on the global scale, using modelling, remote sensing, and data integration approach.8
 
 {% include slider.html %}
 
-## How is Hydro90?
+## What is Hydro90?
 “Global Hydrodynamics” is the study of the dynamics of terrestrial waters  over the entire Earth.  
 
 It focuses on the movement and storage of the surface and sub-surface waters at multiple temporal and special scales from local to global, including rivers, lakes, wetland, soil moisture, and groundwater. It also covers their interactions with related earth surface processes, such as precipitation, evaporation, coastal and ocean dynamics, biogeochemistry, climate change.  
@@ -39,7 +45,9 @@ Our research acitvity is summarized in:
 - [Publications and outcome](./publications/)
 - [List of student academic thesis](./student_thesis/)
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/picture/DLab_20210324.jpg" />
+[test](./research/)
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/xzhou.png" />
 
 Group photo in Farewell Gathering @ Komaba Campus (March 2021)
 

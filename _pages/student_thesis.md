@@ -1,7 +1,7 @@
 ---
-title: "Yamazaki Lab - Thesis"
+title: "Hydro90 - Thesis"
 layout: pagelay
-excerpt: "Yamazaki Lab -- Student Thesis"
+excerpt: "Hydro90 -- Student Thesis"
 sitemap: false
 permalink: /student_thesis/
 ---
