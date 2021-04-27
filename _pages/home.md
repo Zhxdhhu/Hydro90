@@ -1,14 +1,14 @@
 ---
-title: "Yamazaki Lab - Home"
+title: "Hydro90 - Home"
 layout: homelay
-excerpt: "Yamazaki Lab at IIS U-Tokyo"
+excerpt: "Hydro90"
 sitemap: false
 permalink: /
 ---
 # Welcome!
-**NOTE: Some parts of webpage are still under construction. (Feb2021)**
+**NOTE: 本网页仍在持续建设中，敬请期待 (Apr2021)**
 
-Global Hydrodynamics Lab (PI: [Dai Yamazaki](http://hydro.iis.u-tokyo.ac.jp/~yamadai/)) is a part of U-Tokyo [Global Hydrology Group](http://hydro.iis.u-tokyo.ac.jp/) in [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/). 
+Hydro90 (PI: [Dai Yamazaki](http://hydro.iis.u-tokyo.ac.jp/~yamadai/)) is a part of U-Tokyo [Global Hydrology Group](http://hydro.iis.u-tokyo.ac.jp/) in [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/). 
 
 Yamazaki lab is in U-Tokyo Komaba-2 Research Campus (<a href="https://goo.gl/maps/SNCw9DrqL6Rzs4XM9">Map</a>, <a href="https://www.iis.u-tokyo.ac.jp/en/access/">Directions</a>) in central Tokyo.
 
@@ -16,7 +16,7 @@ Our studies mainly focus on the dynamics of land waters on the global scale, usi
 
 {% include slider.html %}
 
-## What is Global Hydrodynamics?
+## How is Hydro90?
 “Global Hydrodynamics” is the study of the dynamics of terrestrial waters  over the entire Earth.  
 
 It focuses on the movement and storage of the surface and sub-surface waters at multiple temporal and special scales from local to global, including rivers, lakes, wetland, soil moisture, and groundwater. It also covers their interactions with related earth surface processes, such as precipitation, evaporation, coastal and ocean dynamics, biogeochemistry, climate change.  

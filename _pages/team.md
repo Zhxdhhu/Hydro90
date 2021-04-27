@@ -1,18 +1,17 @@
 ---
-title: "Yamazaki Lab - Team"
+title: "Hydro90 - Team"
 layout: pagelay
 excerpt: "Yamazaki Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# 团队成员
 
- **We are  looking for new Postdoc, PhD students, and Master/Bachelor students to join the team** [(see Join Us page)]({{ site.url }}{{ site.baseurl }}/joinus) **!**
+ **我们每三月将召集新一期志愿者，共同运营Hydro90，服务读者，敬请留意公众号通知!**
 
-## Staff / Students
+## 编委组
 
-All research staff members belong to  [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/), while students belong to the [Department of Civil Engineering](http://www.civil.t.u-tokyo.ac.jp/en/). 
 
 {% assign number_printed = 0 %}
 
@@ -26,7 +25,7 @@ All research staff members belong to  [Institute of Industrial Science](https://
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }} : {{ member.native }} </h4>
-  <i>{{ member.info }} ( {{ member.duration }} )<br>mail: {{ member.email }} </i>
+  <i>{{ member.duration }} <br> {{ member.info }} <br>mail: {{ member.email }} </i>
 
 <ul style="overflow: hidden">
 
@@ -77,7 +76,7 @@ All research staff members belong to  [Institute of Industrial Science](https://
 {% endif %}
 
 
-## Collaborators / Alumni
+## 顾问
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_collaborator %}
@@ -90,7 +89,7 @@ All research staff members belong to  [Institute of Industrial Science](https://
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }} : {{ member.native }}</h4>
-  <i>( {{ member.duration }} ) {{ member.info }}</i>
+  <i> {{ member.info }}</i>
   <ul style="overflow: hidden">
 
   {% if member.number_desc == "1" %}
@@ -124,18 +123,14 @@ All research staff members belong to  [Institute of Industrial Science](https://
 </div>
 {% endif %}
 
-## Former Students
+## 往期编辑
 <div class="row">
 
 {% for member in site.data.former_student %}
 <div class="col-sm-4 clearfix">
-{{ member.name }} : {{ member.native }} <br/> {{ member.info }}, {{ member.duration }}
+{{ member.name }} : {{ member.duration }} <br/> {{ member.info }}
 </div>
 {% endfor %}
 
 </div>
 
-Please also visit the [list of student thesis](../student_thesis/) (PhD/MA/BA thesis)
-
-## Administrative Support
-Minako Yokoyama (m-yoko [at] iis.u-tokyo.ac.jp) and Yuki Tsukada (tsuka [at] rainbow.iis.u-tokyo.ac.jp) are helping us (and other groups) with administration.

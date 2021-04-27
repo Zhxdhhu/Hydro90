@@ -1,12 +1,12 @@
 ---
-title: "Yamazaki Lab - Join Us"
+title: "Hydro90 - Join Us"
 layout: pagelay
 excerpt: "Join Us"
 sitemap: false
 permalink: /joinus
 ---
 
-# How to join us?
+# 如何加入我们?
 
 We are always looking for new group members with passion, talent and grit. If you love nature and the Earth and want to understand it with data and model, please consider to join us!
 
