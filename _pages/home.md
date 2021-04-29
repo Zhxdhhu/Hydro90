@@ -7,8 +7,6 @@ permalink: /
 ---
 # Welcome!
 
-[publications](./publications/)
-[publications](./general_article/)
 
 **NOTE: 本网页仍在持续建设中，敬请期待 (Apr2021)**
 
@@ -16,12 +14,20 @@ Hydro90是一个以促进水文青年学者之间相互交流为目的，以推�
 
 Hydro90围绕水文，目前已经形成了微信公众号平台、微信群、网页、Twitter多渠道一体的服务平台，
 
+
+
+<!-- 
+
 Yamazaki lab is in U-Tokyo Komaba-2 Research Campus (<a href="https://goo.gl/maps/SNCw9DrqL6Rzs4XM9">Map</a>, <a href="https://www.iis.u-tokyo.ac.jp/en/access/">Directions</a>) in central Tokyo.
 
+
+
 Our studies mainly focus on the dynamics of land waters on the global scale, using modelling, remote sensing, and data integration approach.8
+-->
+
 
 {% include slider.html %}
-
+<!--
 ## What is Hydro90?
 “Global Hydrodynamics” is the study of the dynamics of terrestrial waters  over the entire Earth.  
 
@@ -68,3 +74,4 @@ Group photo in Farewell Gathering @ Komaba Campus (March 2021)
 - [洪水リスク研究会　説明PDF](http://www.iis.u-tokyo.ac.jp/shourei/ResearchCommitte/RC_gazou/rc2021/2021RC-98.pdf)
 - 参加方法については、[生産技術研究奨励会のWebPage](http://www.iis.u-tokyo.ac.jp/shourei/ResearchCommitte/rc-index.html)をご確認ください。
 
+-->

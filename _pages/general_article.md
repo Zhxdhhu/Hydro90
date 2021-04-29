@@ -13,7 +13,7 @@ permalink: /general_article/
 {% for member in site.data.general_article %}
 
 <div class="col-sm-12 clearfix">
-  <h4>  <a href="{{ member.url }}"> {{member.no}} - {{ member.title }} </h4>
+  <h5>  <a href="{{ member.url }}"> {{member.no}} - {{ member.title }} </h5>
    <i> <b> {{ member.name }} </b>({{ member.info }}), {{ member.email }},</i> <i> ({{ member.date }})</i>
 </div>
 

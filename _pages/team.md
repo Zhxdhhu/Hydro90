@@ -25,7 +25,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }} : {{ member.native }} </h4>
-  <i>{{ member.duration }} <br> {{ member.info }} <br>mail: {{ member.email }} </i>
+  <i>(ID.{{ member.no }}) {{ member.duration }} <br> {{ member.info }} <br>mail: {{ member.email }} </i>
 
 <ul style="overflow: hidden">
 
@@ -35,25 +35,25 @@ permalink: /team/
 
   {% if member.number_desc == "2" %}
   <li> {{ member.description1 }} </li>
-  <li> {{ member.description2 }} </li>
+  <li> 研究方向：{{ member.description2 }} </li>
   {% endif %}
 
   {% if member.number_desc == "3" %}
   <li> {{ member.description1 }} </li>
-  <li> {{ member.description2 }} </li>
+  <li> 研究方向：{{ member.description2 }} </li>
   <li> {{ member.description3 }} </li>
   {% endif %}
 
   {% if member.number_desc == "4" %}
   <li> {{ member.description1 }} </li>
-  <li> {{ member.description2 }} </li>
+  <li> 研究方向：{{ member.description2 }} </li>
   <li> {{ member.description3 }} </li>
   <li> {{ member.description4 }} </li>
   {% endif %}
 
   {% if member.number_desc == "5" %}
   <li> {{ member.description1 }} </li>
-  <li> {{ member.description2 }} </li>
+  <li> 研究方向：{{ member.description2 }} </li>
   <li> {{ member.description3 }} </li>
   <li> {{ member.description4 }} </li>
   <li> {{ member.description5 }} </li>
@@ -98,12 +98,12 @@ permalink: /team/
 
   {% if member.number_desc == "2" %}
   <li> {{ member.description1 }} </li>
-  <li> {{ member.description2 }} </li>
+  <li> 研究方向：{{ member.description2 }} </li>
   {% endif %}
 
   {% if member.number_desc == "3" %}
   <li> {{ member.description1 }} </li>
-  <li> {{ member.description2 }} </li>
+  <li> 研究方向：{{ member.description2 }} </li>
   <li> {{ member.description3 }} </li>
   {% endif %}
 
@@ -128,7 +128,7 @@ permalink: /team/
 
 {% for member in site.data.former_student %}
 <div class="col-sm-4 clearfix">
-{{ member.name }} : {{ member.duration }} <br/> {{ member.info }}
+{{ member.name }} : (ID.{{ member.no }}){{ member.duration }} <br/> {{ member.info }}
 </div>
 {% endfor %}
 

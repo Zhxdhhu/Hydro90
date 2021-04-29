@@ -1,13 +1,13 @@
-﻿Sort,name,native,photo,duration,info,email,number_desc,description1,description2,description3,description4,description5,description5
-10,主编,周旭东,Xudong.jpg,2020.05-,东京大学特任助教,x.zhou [at] rainbow.iis.u-tokyo.ac.jp,4,全面负责,水面面积模拟、遥感同化以及人类活动对水文过程的影响,"<a href=""http://hydro.iis.u-tokyo.ac.jp/~x.zhou/"">Personal Webpage</a>","<a href=""https://www.researchgate.net/profile/Xudong_Zhou4"">Research Gate</a>","<a href=""https://github.com/Zhxdhhu""><svg class=""social-icon""><use xlink:href=""/assets/social-icons.svg#github""></use></svg></a>
+﻿Sort,name,native,photo,no,duration,info,email,number_desc,description1,description2,description3,description4,description5,description5
+10,主编,周旭东,Xudong.jpg,1,2020.05-,东京大学特任助教,x.zhou [at] rainbow.iis.u-tokyo.ac.jp,4,全面负责,水面面积模拟、遥感同化以及人类活动对水文过程的影响,"<a href=""http://hydro.iis.u-tokyo.ac.jp/~x.zhou/"">Personal Webpage</a>","<a href=""https://www.researchgate.net/profile/Xudong_Zhou4"">Research Gate</a>","<a href=""https://github.com/Zhxdhhu""><svg class=""social-icon""><use xlink:href=""/assets/social-icons.svg#github""></use></svg></a>
 <a href=""https://twitter.com/xzhou_hydro90""><svg class=""social-icon""><use xlink:href=""/assets/social-icons.svg#twitter""></use></svg></a>",
-20,副主编,万露文,luwen.jpg,2020.09-,密歇根州立大学博士研究生,luven.wan[at]gmail.com,2,负责微信公众号平台,景观格局与生态水文过程，流域氮磷污染物迁移转化等水环境模拟,,,,
-30,编辑,邵曼青,lab_logo.png,2020.03-,德州农工大学博士研究生,wunderbarbonbon[at]gmail.com,2,负责Twitter网络平台,水文模型,,,,
-110,责任编辑,童山琳,shanlin.jpg,2020.12-,河海大学硕士研究生,408520409[at]qq.com,2,论文速递,气候变化对陆地植被和水文环境的影响,,,,
-120,责任编辑,于家瑞,jiarui.jpg,2020.12-,河海大学博士研究生,Marcusyujiarui[at]hotmail.com,2,聚焦顶刊,水旱灾害损失评估及预测、径流预报,,,,
-130,编辑,邓乐乐,lab_logo.png,2020.03-,武汉大学博士研究生,leledeng[at]whu.edu.cn,2,论文速递,水资源规划与管理,,,,
-140,编辑,范杰,lab_logo.png,2020.03-,中国地质大学硕士研究生,1282612452[at]qq.com,2,水文周刊,底泥重金属源解析,,,,
-150,编辑,黄思宇,lab_logo.png,2020.03-,中国农业大学博士研究生,18040554844[at]qq.com,2,论文速递,农业灌溉水管理与气候变化问题,,,,
-160,编辑,姜颖迪,lab_logo.png,2020.03-,河海大学硕士研究生,jiangyingdimg[at]163.com,2,水文周刊,生态水文学,,,,
-170,编辑,吴杭,lab_logo.png,2020.03-,利兹大学博士研究生,cnhwu[at]leeds.ac.uk,2,聚焦顶刊,滑坡堵江事件与水文模型的结合,,,,
-180,编辑,尹高虹,lab_logo.png,2020.03-,东京大学特任研究员,yingaohong[at]gmail.com,2,聚焦顶刊,利用机器学习提高降雨预测精度,,,,
+20,副主编,万露文,luwen.jpg,7,2020.09-,密歇根州立大学博士研究生,luven.wan[at]gmail.com,2,负责微信公众号平台,景观格局与生态水文过程，流域氮磷污染物迁移转化等水环境模拟,,,,
+110,责任编辑,童山琳,shanlin.jpg,9,2020.12-,河海大学硕士研究生,408520409[at]qq.com,2,论文速递,气候变化对陆地植被和水文环境的影响,,,,
+120,责任编辑,于家瑞,jiarui.jpg,11,2020.12-,河海大学博士研究生,Marcusyujiarui[at]hotmail.com,2,聚焦顶刊,水旱灾害损失评估及预测、径流预报,,,,
+130,编辑,邓乐乐,4lele.jpg,12,2020.03-,武汉大学博士研究生,leledeng[at]whu.edu.cn,2,论文速递,水资源规划与管理,,,,
+140,编辑,范杰,4jie.jpg,13,2020.03-,中国地质大学硕士研究生,1282612452[at]qq.com,2,水文周刊,底泥重金属源解析,,,,
+150,编辑,黄思宇,4siyu.jpg,14,2020.03-,中国农业大学博士研究生,18040554844[at]qq.com,2,论文速递,农业灌溉水管理与气候变化问题,,,,
+160,编辑,姜颖迪,4yingdi.jpg,15,2020.03-,河海大学硕士研究生,jiangyingdimg[at]163.com,2,水文周刊,生态水文学,,,,
+30,编辑,邵曼青,4manqing.jpg,16,2020.03-,德州农工大学博士研究生,wunderbarbonbon[at]gmail.com,2,负责Twitter网络平台,水文模型,,,,
+170,编辑,吴杭,4hang.png,17,2020.03-,利兹大学博士研究生,cnhwu[at]leeds.ac.uk,2,聚焦顶刊,滑坡堵江事件与水文模型的结合,,,,
+180,编辑,尹高虹,4gaohong.jpg,18,2020.03-,东京大学特任研究员,yingaohong[at]gmail.com,2,聚焦顶刊,利用机器学习提高降雨预测精度,,,,
