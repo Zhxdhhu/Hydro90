@@ -3,7 +3,7 @@ title: "Hydro90 - Thesis"
 layout: pagelay
 excerpt: "Hydro90 -- Student Thesis"
 sitemap: false
-permalink: /student_thesis/
+permalink: /m_student_thesis/
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Hydro90 - Pictures"
 layout: pagelay
 excerpt: "YHydro90 -- Pictures"
-permalink: /pictures/
+permalink: /m_pictures/
 ---
 
 # Pictures

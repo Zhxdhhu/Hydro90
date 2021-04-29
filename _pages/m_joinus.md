@@ -3,7 +3,7 @@ title: "Hydro90 - Join Us"
 layout: pagelay
 excerpt: "Join Us"
 sitemap: false
-permalink: /joinus
+permalink: /m_joinus
 ---
 
 # 如何加入我们?

@@ -3,7 +3,7 @@ title: "Hydro90 - Article"
 layout: pagelay
 excerpt: "Hydro90 -- Article."
 sitemap: false
-permalink: /general_article/
+permalink: /m_general_article/
 ---
 
 

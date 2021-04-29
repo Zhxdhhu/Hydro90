@@ -3,7 +3,7 @@ title: "Hydro90 - 聚焦顶刊"
 layout: pagelay
 excerpt: "Hydro90 -- Top Journal."
 sitemap: false
-permalink: /top_journal/
+permalink: /m_top_journal/
 ---
 
 

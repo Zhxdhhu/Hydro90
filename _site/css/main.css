@@ -2625,8 +2625,6 @@ pubtit { font-weight: bold; }
 .social-icon { width: 30px; height: 15px; svg-icon: grey; vertical-align: text-bottom; }
 
 /* additional css */
-.container { margin-right: auto; margin-left: auto; padding-left: 15px; padding-right: 15px; }
-
 .team-member { margin-bottom: 50px; text-align: center; }
 
 .team-member img { margin: 0 auto; border: 7px solid #fff; }

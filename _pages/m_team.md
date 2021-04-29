@@ -3,7 +3,7 @@ title: "Hydro90 - Team"
 layout: pagelay
 excerpt: "Hydro90 Team members"
 sitemap: false
-permalink: /team/
+permalink: /m_team/
 ---
 
 # 团队成员

@@ -3,7 +3,7 @@ title: "Hydro90 - Research"
 layout: pagelay
 excerpt: "Hydro90 -- Research"
 sitemap: false
-permalink: /research/
+permalink: /m_research/
 ---
 
 # Our Research
