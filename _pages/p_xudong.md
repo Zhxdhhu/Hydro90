@@ -6,5 +6,4 @@ sitemap: false
 permalink: /p_xudong/
 ---
 
-
-{% include p_xudong.html %}
+xudong 
